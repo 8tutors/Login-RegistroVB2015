@@ -7,5 +7,5 @@ Projeto simples de Login e Registro Feito no Visual Basic 2015
 ### Tela Inicial
 <img src="https://github.com/8tutors/Login-RegistroVB2015/blob/master/img/02.png">
 
-### TELA DE CADASTRO
+### Tela de Cadastro
 <img src="https://github.com/8tutors/Login-RegistroVB2015/blob/master/img/03.png">
